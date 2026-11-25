@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!-- macOS でマイク・カメラを使うときに表示される説明文（無いとアクセスが拒否される） -->
+<plist version="1.0">
+<dict>
+  <key>NSMicrophoneUsageDescription</key>
+  <string>ボイスチャンネルで話すためにマイクを使用します。</string>
+  <key>NSCameraUsageDescription</key>
+  <string>ビデオ通話のためにカメラを使用します。</string>
+</dict>
+</plist>
